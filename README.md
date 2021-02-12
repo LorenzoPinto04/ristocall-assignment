@@ -6,7 +6,7 @@
 
 # TASK 1:
 
-1 - Create a Flask App and display in an html template 20 users cards as in the file mockups/iphone-x-xs-11-pro-1.html (using dummy data from backend)
+1 - Create a Flask App and display in an html template 20 users cards as in the file iphone-x-xs-11-pro-1.html (using dummy data from backend)
 
 2 - Implement the scrolling to display up to 500 users 
 
